@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benediktpetur
-- 👀 I’m interested in Computer Sience, Cyber Security and data analysis.
-- 🌱 I’m currently learning Computer Sience and University of Iceland
+- 👀 I’m interested in Computer Sience, Cyber Security and data analytics.
+- 🌱 I’m currently learning Computer Sience at University of Iceland
 - 📫 You can reach me @deletingmaybe on twitter and bps6@hi.is
 
 <!---
